@@ -2,7 +2,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard_image/dsahboard.png)
+![Dashboard Preview](dashboard_image/dashboard.png)
 
 > 🚀 Interactive Power BI dashboard analyzing mobile sales trends, customer behavior, and payment insights across India.
 
